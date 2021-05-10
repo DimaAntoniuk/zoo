@@ -1,0 +1,6 @@
+5
+monkey 1
+panther 1
+lion 1
+horse 1
+bear 1
